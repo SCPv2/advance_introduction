@@ -1,11 +1,24 @@
 # SCPV2 Advance 실습 준비
 
+## 수강자 실습 단말 환경
+
+### 실습용 폴더 생성(Windows)
+```
+cmd
+cd \
+md scpv2advance
+```
+### Visual Studio Code 설치
+```
+https://code.visualstudio.com/
+```
+
 ## 실습 준비(콘솔)
 
-- Key Pair 만들기
+- Keypair를 만들고 다운로드 받은 Keypair(mykey.pem)을 C:\scpv2advance\keypair에 저장
 
 ```
-mykey
+Keypair명: mykey
 ```
 
 - 인증키 만들기
