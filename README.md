@@ -15,16 +15,16 @@ https://code.visualstudio.com/
 
 ## 실습 준비(콘솔)
 
-- Keypair를 만들고 다운로드 받은 Keypair(mykey.pem)을 C:\scpv2advance\keypair에 저장
+### Keypair를 만들고 다운로드 받은 Keypair(mykey.pem)을 C:\scpv2advance\keypair에 저장
 
 ```
 Keypair명: mykey
 ```
 
-- 인증키 만들기
+### 인증키 만들기
 
 
-- DNS 만들기
+### DNS 만들기
 
 ```
 Public Domain Name 
@@ -43,3 +43,16 @@ Hosted Zone(Public)
 등록할 Hosted Zone명 : 위에서 생성한 Public DNS 사용
 ```
 
+### Object Storage 버킷 생성 및 Network Logging 로그 저장소 지정
+```
+버킷명 : celog
+```
+
+### Trail 생성
+```
+Trail명 : cetrail
+대상리전 : 전체
+저장버킷 리전 : kr-west1
+저장 버킷 : celog
+저장 형식 : JSON
+```
