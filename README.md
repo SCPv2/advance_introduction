@@ -64,3 +64,9 @@ Trail명 : cetrail
 저장 버킷 : celog
 저장 형식 : JSON
 ```
+
+### Putty 다운로드 및 키변환
+```
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+```
+
