@@ -13,7 +13,13 @@ md scpv2advance
 https://code.visualstudio.com/
 ```
 ### Github Clone
-
+```
+git clone https://github.com/SCPv2/advance_iac.git          # IaC를 이용한 클라우드 자원 배포 자동화
+git clone https://github.com/SCPv2/advance_networking.git   # VPC 및 네트워크 확장
+git clone https://github.com/SCPv2/advance_ha.git           # 고가용성/고성능 3계층 아키텍처 구현
+git clone https://github.com/SCPv2/advance_backupdr.git     # 백업 및 재해복구 구현
+git clone https://github.com/SCPv2/advance_cloudnative.git  # 클라우드 네이티브 환경 구현
+```
 
 ## 실습 준비(콘솔)
 
