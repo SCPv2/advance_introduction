@@ -70,3 +70,4 @@ Trail명 : cetrail
 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 ```
 
+### Public IP 생성 및 관리
