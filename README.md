@@ -2,7 +2,7 @@
 
 ## Visual Studio Code 설치
 
-- https://code.visualstudio.com/
+- [Visual Studio Code](https://code.visualstudio.com/) 사이트 방문
 
 ### Github Clone
 
