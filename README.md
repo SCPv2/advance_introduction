@@ -84,6 +84,12 @@ Private DNS명 : cesvc
 
 - Public DNS : www , A 레코드용
 
+### Putty 다운로드 및 키변환
+
+```url
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+```
+
 ### 환경변수 설정 스크립트
 
 - env_setup.ps1
@@ -100,10 +106,4 @@ Private DNS명 : cesvc
 #
 # 3. EXIT      - Exit the application
 
-```
-
-### Putty 다운로드 및 키변환
-
-```url
-https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 ```
