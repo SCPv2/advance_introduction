@@ -9,7 +9,9 @@ mkdir scpv2advance
 
 ## Visual Studio Code 설치
 
-- [Visual Studio Code](https://code.visualstudio.com/) 사이트 방문
+```url
+https://code.visualstudio.com/
+```
 
 ### Github Clone
 
