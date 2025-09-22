@@ -1,5 +1,12 @@
 # SCPV2 Advance 실습 준비
 
+## 실습용 폴더 생성
+
+```cmd
+cd \
+mkdir scpv2advance
+```
+
 ## Visual Studio Code 설치
 
 - [Visual Studio Code](https://code.visualstudio.com/) 사이트 방문
