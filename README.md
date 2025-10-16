@@ -13,7 +13,7 @@ mkdir scpv2advance
 https://code.visualstudio.com/
 ```
 
-### Github Clone
+## Github Clone
 
 ```powershell
 git clone https://github.com/SCPv2/advance_iac.git          # IaC를 이용한 클라우드 자원 배포 자동화
@@ -83,6 +83,8 @@ Private DNS명 : cesvc
 ### Public IP 생성 및 관리
 
 - Public DNS : www , A 레코드용
+
+## 실습 준비(PC)
 
 ### Putty 다운로드 및 키변환
 
