@@ -1,4 +1,4 @@
-# SCPV2 Advance 실습 준비
+# Samsung Cloud Platform v2 Advance 실습 준비
 
 ## 실습용 폴더 생성
 
