@@ -40,14 +40,14 @@ Keypair를 만들고 다운로드 받은 Keypair는 별도 보관
 - Terraform 용
 
   - IAM User : 실습 자원에 대한 Full Access 권한 부여
-  - 생성한 User로 로그인하고 인증 키 생성
+  - 생성한 User로 로그인하고 인증키 생성
   - 인증키 생성 : `90`일 후 만료
   - 보안 설정 : 실습자 PC Public IP
 
 - Object Storage 용
 
   - IAM User : Object Storage에 대한 Full Access 권한 부여
-  - 생성한 User로 로그인하고 인증 키 생성
+  - 생성한 User로 로그인하고 인증키 생성
   - 인증키 생성 : `90`일 후 만료
   - 보안 설정 : 실습자 PC Public IP
 
